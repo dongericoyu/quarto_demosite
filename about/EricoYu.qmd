@@ -1,0 +1,38 @@
+---
+title: "Erico Yu"
+image: images/EricoYu.jpg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/EricoYu.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/dongericoyu
+---
+## Education/Work Background
+Lecturer, DACSS, The University of Massachusett Amherst (2023-)
+Lecturer, Grinnell College, Iowa (2022-2023)
+Ph.D, Political Science, The University of Iowa (2014-2022)
+MA, Public and International Affairs, The University of Pittsburgh (2010-2012)
+
+## R experience
+- 7-year
+
+## Research interests
+- comparative political behavior
+- judicial politics
+- gender politics
+- quantitative and experimental methods
+
+## Hometown
+- Guangzhou, China
+
+## Hobbies
+- Lego building!
+- fencing, skiing, traveling
+
+
+## Fun fact
+- I have been to 32 states in the US.
